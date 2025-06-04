@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Jahnavi!✨<br><br>I’m a computer science student with a passion for Web Development 💻 and AI 🤖 and building cool projects! <br><br>What I do:<br><br>Frontend development with clean UI  🌟<br><br>Explore and learn about AI 🤖<br><br>Continuously improve my coding skills 💡<br><br>
+ Hi, I'm Jahnavi!✨<br><br>I’m a computer science student with a passion for Web Development 💻 and AI 🤖 and building cool projects! <br><br>What I do:<br><br>Frontend development with clean UI  🌟<br>Explore and learn about AI 🤖<br>Continuously improve my coding skills 💡<br><br>
 
 
 # 💻 Tech Stack:
